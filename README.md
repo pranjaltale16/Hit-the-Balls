@@ -1,2 +1,2 @@
 # Hit-the-Balls
-A javascript based game.
+A javascript based game based on balls.
